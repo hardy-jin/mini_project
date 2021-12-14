@@ -1,4 +1,4 @@
-# mini_project
+# Mini_Project
 •	Domain
 
 
