@@ -1,0 +1,14 @@
+[
+  {
+    "id": "panels",
+    "title": "panels",
+    "panel": "panels/panels/panelsPanel",
+    "DEBUG_ONLY": false
+  },
+  {
+    "id": "SimSM",
+    "title": "SimSM",
+    "panel": "panels/SimSM/SimSMPanel",
+    "DEBUG_ONLY": false
+  }
+]
